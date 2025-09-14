@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 class AppTheme {
   // Colors
-  static const Color primary = Colors.deepOrange;
+  static const Color primary = Color(0xFFEE1C25);
   static const Color background = Colors.white;
   static const Color textDark = Colors.black87;
   static const Color textLight = Colors.white;
